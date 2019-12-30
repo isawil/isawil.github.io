@@ -28,3 +28,5 @@ This is an early project of mine that still gets attention: a map of rat sightin
 ## CSPG Collection Map
 
 ![Screenshot of the CSPG Collection Map](https://github.com/isawil/isawil.github.io/blob/master/assets/cspg-2019.png?raw=true)
+
+This is a map showing where posters at the [Center for the Study of Political Graphics](https://wwww.politicalgraphics.org/) in Culver City, California originate from. It only shows locations for digitized posters.
