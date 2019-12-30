@@ -14,21 +14,27 @@ title: Curriculum Vitae
 ## Work Experience
 
 **Data Visualization Librarian**, The University of Texas at Arlington
-July 2019-Present
+- July 2019-Present
 
 **Graduate Assistant**, UCLA Digital Library Program
-April 2017-June 2019
+- April 2017-June 2019
 
 **Intern**, Center for the Study of Political Graphics
-October 2018-March 2019
+- October 2018-March 2019
 
 ---
 
 ## Conferences
 
+**Research Data Access and Preservation Summit 2020**, Santa Fe, NM
+
+**Research & Inquiry Conference**, Los Angeles, CA
+
 ---
 
 ## Workshops
+
+**Archives Unleashed Datathon**, New York, NY
 
 ---
 
