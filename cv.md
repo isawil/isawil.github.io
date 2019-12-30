@@ -5,36 +5,46 @@ title: Curriculum Vitae
 
 ## Education
 
-**University of California, Los Angeles**, Master of Library and Information Science, Informatics
+**University of California, Los Angeles**
+<br>Master of Library and Information Science, Informatics
+<br>September 2017-June 2019
 
-**University of California, Los Angeles**, Bachelor of Arts, English
+**University of California, Los Angeles**
+<br>Bachelor of Arts, English
+<br>September 2015-June 2017
 
 ---
 
 ## Work Experience
 
-**Data Visualization Librarian**, The University of Texas at Arlington
-- July 2019-Present
+**Data Visualization Librarian**
+<br>The University of Texas at Arlington
+<br>July 2019-Present
 
-**Graduate Assistant**, UCLA Digital Library Program
-- April 2017-June 2019
+**Graduate Assistant**
+<br>UCLA Digital Library Program
+<br>April 2017-June 2019
 
-**Intern**, Center for the Study of Political Graphics
-- October 2018-March 2019
+**Intern**
+<br>Center for the Study of Political Graphics
+<br>October 2018-March 2019
 
 ---
 
 ## Conferences
 
-**Research Data Access and Preservation Summit 2020**, Santa Fe, NM
+**Research Data Access and Preservation Summit 2020**
+<br>Santa Fe, NM
 
-**Research & Inquiry Conference**, Los Angeles, CA
+**Research & Inquiry Conference**
+<br>Los Angeles, CA
 
 ---
 
 ## Workshops
 
-**Archives Unleashed Datathon**, New York, NY
+**Archives Unleashed Datathon**
+<br>New York, NY
 
 ---
 
