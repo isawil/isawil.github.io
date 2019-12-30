@@ -3,10 +3,16 @@ layout: narrative
 title: Maps
 ---
 
-Dallas Death Map Project
+## Dallas Death Map Project
 
-Mapping MTA Growth Over Time
+---
 
-New York City Rat Sightings
+## Mapping MTA Growth Over Time
 
-Hills of Rome Through Livy
+---
+
+## New York City Rat Sightings
+
+---
+
+## Hills of Rome Through Livy
