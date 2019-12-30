@@ -5,7 +5,7 @@ title:               Isaac Williams
 tagline:             'librarian ﹏ digital humanist ﹏ poet'
 description:         'librarian ﹏ digital humanist ﹏ poet'
 url:                 'http://isawil.github.io'
-baseurl:             'isawil.github.io'
+baseurl:             'isawil.github.io/'
 
 # About/contact
 author:
