@@ -13,9 +13,13 @@ A collaboration between myself and Priscilla Escobedo, this map aims to visualiz
 
 ## Mapping MTA Growth Over Time
 
+I wanted to see if the City of New York is investing in transit infrastructure in transit deserts in the city, so I made an animated map using an adapted dataset from the City (I adapted it by including when stations were built).
+
 ---
 
 ## New York City Rat Sightings
+
+This is an early project of mine that still gets attention: a map of rat sightings in New York City, also created using city data. In 2020, I am looking to create an expanded version--can you believe this is only a tiny fraction of all sightings reported?
 
 ---
 
