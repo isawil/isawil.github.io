@@ -5,7 +5,7 @@ title: Maps
 
 ## Dallas Death Map Project
 
-![The overview of the Dallas Death Map](https://github.com/isawil/isawil.github.io/blob/master/assets/ddm-2019-02.png?raw=true)
+![Screenshot of the Dallas Death Map](https://github.com/isawil/isawil.github.io/blob/master/assets/ddm-2019-02.png?raw=true)
 
 A collaboration between myself and Priscilla Escobedo, this map aims to visualize death in Dallas from 1915-1920, and is a work in progress. The map was created using data culled from archival sources at the Dallas Public Library, and documents deaths that occurred outside hospitals and other places where death might be "expected." We are currently seeking to expand the project.
 
@@ -19,8 +19,12 @@ I wanted to see if the City of New York is investing in transit infrastructure i
 
 ## New York City Rat Sightings
 
+![Screenshot of the NYC Rat Sightings map](https://github.com/isawil/isawil.github.io/blob/master/assets/rm-2019.png?raw=true)
+
 This is an early project of mine that still gets attention: a map of rat sightings in New York City, also created using city data. In 2020, I am looking to create an expanded version--can you believe this is only a tiny fraction of all sightings reported?
 
 ---
 
-## Hills of Rome Through Livy
+## CSPG Collection Map
+
+![Screenshot of the CSPG Collection Map](https://github.com/isawil/isawil.github.io/blob/master/assets/cspg-2019.png?raw=true)
