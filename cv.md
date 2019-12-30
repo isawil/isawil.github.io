@@ -12,6 +12,12 @@ title: Curriculum Vitae
 
 ## Work Experience
 
+**Data Visualization Librarian**, The University of Texas at Arlington
+July 2019-Present
+
+**Graduate Assistant**, UCLA Digital Library Program
+April 2017-June 2019
+
 ---
 
 ## Conferences
