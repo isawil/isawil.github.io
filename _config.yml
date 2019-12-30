@@ -1,20 +1,20 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               Isaac Williams
+tagline:             'librarian ﹏ digital humanist ﹏ poet'
+description:         'librarian ﹏ digital humanist ﹏ poet'
 url:                 'http://isawil.github.io'
 baseurl:             'isawil.github.io'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Isaac Williams
+  url:               https://twitter.com/isawil_
+  email:             isaacmwill@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: cyan
 
 # Permalinks
 permalink: pretty
