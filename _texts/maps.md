@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: narrative
 title: Maps
 ---
 
@@ -9,4 +9,4 @@ Mapping MTA Growth Over Time
 
 New York City Rat Sightings
 
-Hills of Rome Through Livy 
+Hills of Rome Through Livy
