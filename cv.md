@@ -48,4 +48,14 @@ title: Curriculum Vitae
 
 ---
 
-## Skills
+## Service
+
+**Digital Humanities 2020**
+<br>Peer Reviewer
+<br>November 2019-December 2019
+<br>Remote
+
+**dh+lib**
+<br>Editor-at-Large
+<br>October 2019-November 2019
+<br>Remote
