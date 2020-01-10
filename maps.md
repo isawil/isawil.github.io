@@ -3,7 +3,7 @@ layout: page
 title: Maps
 ---
 
-## Dallas Death Map Project
+## [Dallas Death Map Project](https://isawil.carto.com/builder/c4402a6d-038f-412b-a3dc-1aa6f164a651/embed)
 
 ![Screenshot of the Dallas Death Map](https://github.com/isawil/isawil.github.io/blob/master/assets/ddm-2019-02.png?raw=true)
 
@@ -11,13 +11,13 @@ A collaboration between myself and Priscilla Escobedo, this map aims to visualiz
 
 ---
 
-## Mapping MTA Growth Over Time
+## [Mapping MTA Growth Over Time](https://isawil.carto.com/builder/3f9cd1f6-cfd4-4138-a47c-768bb263ad2a/embed)
 
 I wanted to see if the City of New York is investing in transit infrastructure in transit deserts in the city, so I made an animated map using an adapted dataset from the City (I adapted it by including when stations were built).
 
 ---
 
-## New York City Rat Sightings
+## [New York City Rat Sightings](https://bit.ly/nyc-rats/)
 
 ![Screenshot of the NYC Rat Sightings map](https://github.com/isawil/isawil.github.io/blob/master/assets/rm-2019.png?raw=true)
 
@@ -25,7 +25,7 @@ This is an early project of mine that still gets attention: a map of rat sightin
 
 ---
 
-## CSPG Collection Map
+## [CSPG Collection Map](https://www.google.com/maps/d/u/1/viewer?mid=1H4HTwqOtP89PG-_t6jblj2RjzQ_uRzBj&ll=-3.81666561775622e-14%2C-68.89967108642077&z=1)
 
 ![Screenshot of the CSPG Collection Map](https://github.com/isawil/isawil.github.io/blob/master/assets/cspg-2019.png?raw=true)
 
