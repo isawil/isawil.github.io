@@ -36,14 +36,14 @@ title: Curriculum Vitae
 **Research Data Access and Preservation Summit**
 <br>"What Is 'Data'?: Collaborations Between Special Collections and Research Data Services"
 <br>With Peace Ossom-Williamson and Priscilla Escobedo
-<br>March 2020
 <br>Santa Fe, NM
+<br>March 2020
 
 **Research & Inquiry Conference**
 <br>"'How Do You Know?': Self-Interrogation and the Roots of Queerness"
 <br>With Ariel Hahn
-<br>May 2018
 <br>Los Angeles, CA
+<br>May 2018
 
 ---
 
@@ -51,8 +51,8 @@ title: Curriculum Vitae
 
 **Archives Unleashed Datathon**
 <br>Received $1,000 travel grant
-<br>March 2020
 <br>New York, NY
+<br>March 2020
 
 ---
 
