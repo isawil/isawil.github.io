@@ -2,22 +2,6 @@
 layout: page
 title: Curriculum Vitae
 ---
-<!-- Default Statcounter code for Isawil.github.io
-https://isawil.github.io -->
-<script type="text/javascript">
-var sc_project=11863955;
-var sc_invisible=1;
-var sc_security="f1c0a47a";
-</script>
-<script type="text/javascript"
-src="https://www.statcounter.com/counter/counter.js"
-async></script>
-<noscript><div class="statcounter"><a title="Web Analytics"
-href="https://statcounter.com/" target="_blank><img
-class="statcounter"
-src="https://c.statcounter.com/11863955/0/f1c0a47a/1/"
-alt="Web Analytics"></a></div></noscript>
-<!-- End of Statcounter Code -->
 
 ## Education
 
@@ -88,3 +72,20 @@ alt="Web Analytics"></a></div></noscript>
 
 **UTA LGBTQ Advisory Board**
 <br>Board Member
+
+<!-- Default Statcounter code for Isawil.github.io
+https://isawil.github.io -->
+<script type="text/javascript">
+var sc_project=11863955;
+var sc_invisible=1;
+var sc_security="f1c0a47a";
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank><img
+class="statcounter"
+src="https://c.statcounter.com/11863955/0/f1c0a47a/1/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
