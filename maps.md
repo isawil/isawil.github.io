@@ -3,23 +3,6 @@ layout: page
 title: Maps
 ---
 
-<!-- Default Statcounter code for Isawil.github.io
-https://isawil.github.io -->
-<script type="text/javascript">
-var sc_project=11863955; 
-var sc_invisible=1; 
-var sc_security="f1c0a47a"; 
-</script>
-<script type="text/javascript"
-src="https://www.statcounter.com/counter/counter.js"
-async></script>
-<noscript><div class="statcounter"><a title="Web Analytics"
-href="https://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="https://c.statcounter.com/11863955/0/f1c0a47a/1/"
-alt="Web Analytics"></a></div></noscript>
-<!-- End of Statcounter Code -->
-
 ## [Dallas Death Map Project](https://isawil.carto.com/builder/c4402a6d-038f-412b-a3dc-1aa6f164a651/embed)
 
 ![Screenshot of the Dallas Death Map](https://github.com/isawil/isawil.github.io/blob/master/assets/ddm-2019-02.png?raw=true)
@@ -47,3 +30,20 @@ This is an early project of mine that still gets attention: a map of rat sightin
 ![Screenshot of the CSPG Collection Map](https://github.com/isawil/isawil.github.io/blob/master/assets/cspg-2019.png?raw=true)
 
 This is a map showing where posters at the [Center for the Study of Political Graphics](https://wwww.politicalgraphics.org/) in Culver City, California originate from. It only shows locations for digitized posters.
+
+<!-- Default Statcounter code for Isawil.github.io
+https://isawil.github.io -->
+<script type="text/javascript">
+var sc_project=11863955;
+var sc_invisible=1;
+var sc_security="f1c0a47a";
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/11863955/0/f1c0a47a/1/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
