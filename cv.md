@@ -58,17 +58,17 @@ title: Curriculum Vitae
 
 ## Service
 
-**Digital Humanities 2020**
-<br>Peer Reviewer
-<br>November 2019-December 2019
-
 **dh+lib**
 <br>Editor-at-Large
-<br>October 2019-November 2019
+<br>October 2019 to Present
 
 **UCLA Library and Information Science Alumni Association**
 <br>Mentor
 <br>December 2019 to Present
+
+**Digital Humanities 2020**
+<br>Peer Reviewer
+<br>November 2019-December 2019
 
 **UTA LGBTQ Advisory Board**
 <br>Board Member
