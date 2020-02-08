@@ -84,7 +84,7 @@ To put the map on the CSPG website, you do not need to have any experience with 
 - Paste the code into the HTML file where you would like the map to appear.
 - Save the file, and send your changes to the site.
 
-Give it a few minutes, but the map should now be visible on the CSPG site!
+Give it a few minutes, and the map will be visible on the CSPG site.
 
 ---
 
