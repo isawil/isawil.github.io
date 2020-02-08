@@ -64,13 +64,13 @@ This is an abridged CV. For a more comprehensive look at my professional experie
 
 ## Service
 
-**dh+lib**
-<br>Editor-at-Large
-<br>October 2019 to Present
-
 **UCLA Library and Information Science Alumni Association**
 <br>Mentor
 <br>December 2019 to Present
+
+**dh+lib**
+<br>Editor-at-Large
+<br>October 2019 to Present
 
 **Digital Humanities 2020**
 <br>Peer Reviewer
@@ -78,6 +78,22 @@ This is an abridged CV. For a more comprehensive look at my professional experie
 
 **UTA LGBTQ Advisory Board**
 <br>Board Member
+
+---
+
+## Skills
+
+- Markdown
+- Jekyll
+- GitHub
+- Bash
+- Unix shell
+- HTML/CSS
+- XML
+- Oxygen XML Editor
+- Python
+- R
+- Taxonomy
 
 <!-- Default Statcounter code for Isawil.github.io
 https://isawil.github.io -->
