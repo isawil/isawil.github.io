@@ -1,5 +1,5 @@
 ---
-layout: narrative
+layout: page
 title: Documentation Samples
 author: Isaac Williams
 ---
