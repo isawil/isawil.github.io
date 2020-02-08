@@ -1,6 +1,7 @@
 ---
 layout: narrative
 title: Documentation Samples
+author: Isaac Williams
 ---
 
 ### CSPG Digital Mapping Documentation
