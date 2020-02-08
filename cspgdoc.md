@@ -85,3 +85,73 @@ To put the map on the CSPG website, you do not need to have any experience with 
 - Save the file, and send your changes to the site.
 
 Give it a few minutes, but the map should now be visible on the CSPG site!
+
+---
+
+### Archive-It documentation
+
+This is technical documentation I wrote in support of UCLA’s web archiving initiatives. Few librarians at UCLA have experience using Archive-It, the software we use to archive web content, and I wrote this documentation to help librarians better understand how it functions. This documentation is currently hosted on Confluence, the website the UCLA Library uses to host its documentation.
+
+To begin, sign into Archive-It at https://archive-it.org. You will be redirected to the UCLA Library account overview page, which shows a list of all collections being archived by UCLA using Archive-It. You can navigate to the collection you would like to work with by clicking on the collection name, or you can create a new collection by clicking the blue "Create a Collection" button above the list.
+
+## Creating a new collection
+
+From the account overview (landing) page, click the blue "Create a Collection" button above the list of active collections.
+
+In the window that appears, name your collection.
+
+You will be redirected to the landing page for your new collection. From this page, you can take a tour of the collection area, add seeds, or delete the collection. You can also toggle between making your collection private or public, and active or inactive. Later, you will be able to see your scheduled crawls on this page.
+
+## Adding seeds
+
+You can add seeds to a new collection from the collection's landing page. For an existing collection, you can add seeds by navigating to the "Seeds" tab and clicking the blue "Add Seeds" button above the seed list on the right side.
+When inputting seed URLs, you must pay attention to how the URLs are formatted. Usually, you can copy and paste the URL as it appears in your browser, and it will be properly formatted. However, there are two primary considerations:
+You may need a / (forward slash) at the end of the seed URL.
+- Anything that comes after a # (hashtag) in a seed URL will be ignored by the crawler.
+- Archive-It has more information about these considerations and adding seeds here.
+
+Scope
+
+The scope setting determines what the crawler archives. You can change or refine the scope by blocking URLs or using regular expressions. Seeds' default crawling scope will be determined by how you format their URLs when you add them to the collection. For most seeds, embedded content such as videos will be archived (including embedded content not hosted on the same site as the seed), but linked content will not (unless you specify otherwise).
+
+You can also change the scope at the seed level.
+
+Here is information about how the crawler determines scope, and here are instructions for modifying a collection's scope.
+
+## Running crawls
+To run a crawl and record content, select the crawl from the "Seeds" tab and click the "Run Crawl" button above the seed list. From this page, you can set parameters for your crawl and whether it is a crawl or a test crawl. You can limit documents, data, and time archived. You also have the ability to crawl only PDFs.
+
+## Test crawls
+Web archiving can be expensive, and it is important to stay within your budget. Because it is possible to archive more data than intended while running crawls, be sure to first run a free test crawl. Test crawls are a great way to see which parts of your intended crawl and scope need improvement without paying for collected data. If your test crawl is satisfactory, you can purchase (save) your test crawl and add it to your collection as a normal crawl.
+
+Run the test crawl with the domains first, and then check for issues such as:
+- redirects, malicious or not. You may elect to disable a seed if the URL has changed or there are other reasons for excessive redirects. Check that most documents for each seed come from the same domain as the seed; if not, this is an unwanted redirect and you should consider disabling the seed.
+- unusually high amount of documents. UT Austin's guidelines say that any amount over 30,000 documents is worrisome. High amounts of documents could be due to a site re-launching, a seed directing to a malicious site, or crawler traps.
+
+If the test crawl has no issues, you can save it. If the test crawl has issues, add host constraints and then run another test crawl. Repeat until you are satisfied with the results of the crawl.
+## Crawler traps
+
+A crawler trap is a series of web pages that create an infinite amount of URLs for crawlers to find. In other words, if our crawler stumbles into one of these traps, it could continue running forever. While Archive-It's crawlers have maximum crawl duration times, a lot of data can be archived prior to this cut-off, so avoiding these traps is imperative.
+
+Unusually high amounts of "queued" URLs can indicate that a seed has a crawler trap. Archive-It has a list of suspicious patterns on its page "Identify and avoid crawler traps."
+
+To prevent traps from being crawled, it is necessary to limit the scope of your crawls. This is possible by identifying a string of text that appears in trap URLs and blocking it from future crawls. You may also use regular expressions to limit scope. Refer to the "Scope" section of this page for more information about how to limit scope.
+
+## Archiving Facebook
+A few guidelines will help streamline Facebook archiving:
+- Be sure to only archive specific portions of Facebook, and not the entirety of the site. Be sure to add an ending slash to your seed URL.
+- Use HTTPS instead of HTTP in your seed URL–Facebook only uses HTTPS.
+- See if you can view the seed on the live web. Many pages on Facebook are only visible to specific users. Archive-It has instructions for how to crawl password-protected pages.
+- Limit the scope of each seed to archive at least 1GB of data. Many Facebook pages will take more than 1GB to capture properly.
+- Either change the collection-level scoping rules to ignore robots exclusions on three hosts (www.facebook.com, fbcdn.net, and akamaihd.net) OR ignore robots.txt for each seed at the seed level.
+- You can also limit the scope of your crawls so that they only archive English language content (or other languages), or that they exclude personal information or segmented video files. Archive-It has more detailed guidelines.
+- Archived Facebook pages will appear the same as they do on the live web, but you will be unable to expand comments sections to see comments beyond what the crawlers saw, and you will not be able to see the names of individual Facebook users who have "liked" archived posts (although you will be able to see the number of people who "liked" it).
+
+## Archiving Twitter
+
+There are three main rules to follow when archiving Twitter:
+- Avoid adding www to your seed URL, as Twitter URLs do not have a www and www.twitter.com is blocked by a robots exclusion.
+- You must add an ending slash to your seed URL. If you do not do this, you will archive all of Twitter instead of just the feed you want.
+- You should also be sure to exclude additional languages. Each tweet is captured in all languages Twitter supports. To avoid capturing more than what you need, you should limit the scope of your collection or seed to block URLs that match the regular expression ^.*lang=(?!en).*$
+
+Archive-It has more detailed guidelines and ways to archive video, Twitter searches, and links in tweets.
