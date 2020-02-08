@@ -4,7 +4,7 @@ title: Documentation Samples
 author: Isaac Williams
 ---
 
-### CSPG Digital Mapping Documentation
+# CSPG Digital Mapping Documentation
 
 ## Summary
 
@@ -88,7 +88,7 @@ Give it a few minutes, but the map should now be visible on the CSPG site!
 
 ---
 
-### Archive-It documentation
+# Archive-It documentation
 
 This is technical documentation I wrote in support of UCLA’s web archiving initiatives. Few librarians at UCLA have experience using Archive-It, the software we use to archive web content, and I wrote this documentation to help librarians better understand how it functions. This documentation is currently hosted on Confluence, the website the UCLA Library uses to host its documentation.
 
