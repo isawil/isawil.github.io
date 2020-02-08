@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: Resume
 ---
+
+This is an abridged CV. For a more comprehensive look at my professional experience, head to [my LinkedIn profile](https://www.linkedin.com/in/isaac-williams-40130914a/).
 
 ## Education
 
@@ -28,6 +30,10 @@ title: Curriculum Vitae
 **Intern**
 <br>Center for the Study of Political Graphics
 <br>October 2018-March 2019
+
+**Marketing and Research Analysis Intern**
+<br>Greenlight Insights
+<br>August 2015-January 2016
 
 ---
 
