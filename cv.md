@@ -93,7 +93,7 @@ This is an abridged CV. For a more comprehensive look at my professional experie
 - Oxygen XML Editor
 - Python
 - R
-- Taxonomy
+- JSON
 
 <!-- Default Statcounter code for Isawil.github.io
 https://isawil.github.io -->
