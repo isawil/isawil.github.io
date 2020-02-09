@@ -153,7 +153,7 @@ You can also use regular expressions to limit scope. Refer to the "Scope" sectio
 
 A few guidelines will help streamline Facebook archiving:
 - Be sure to only archive specific portions of Facebook, and not the entirety of the site. Be sure to add an ending slash to your seed URL.
-- Use HTTPS instead of HTTP in your seed URL.
+- Use `HTTPS` instead of `HTTP` in your seed URL.
 - See if you can view the seed on the live web. Many pages on Facebook are only visible to users with permissions to view them.
 - Limit the scope of each seed to archive at least 1GB of data. Many Facebook pages will take more than 1GB to fully capture.
 - Either change the collection-level scoping rules to ignore robots exclusions on three hosts (`www.facebook.com`, `fbcdn.net`, and `akamaihd.net`) OR ignore `robots.txt` for each seed at the seed level.
