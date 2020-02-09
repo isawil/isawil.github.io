@@ -4,6 +4,10 @@ title: Documentation Samples
 author: Isaac Williams
 ---
 
+Here are some samples of my technical documentation. The first is documentation for the web archiving software Archive-It. The second is documentation I created for the Center for the Study of Political Graphics about updating a project in Google Maps.
+
+---
+
 # CSPG Digital Mapping Documentation
 
 ## Summary
@@ -106,8 +110,8 @@ You will be redirected to the landing page for your new collection. From this pa
 
 You can add seeds to a new collection from the collection's landing page. For an existing collection, you can add seeds by navigating to the "Seeds" tab and clicking the blue "Add Seeds" button above the seed list on the right side.
 When inputting seed URLs, you must pay attention to how the URLs are formatted. Usually, you can copy and paste the URL as it appears in your browser, and it will be properly formatted. However, there are two primary considerations:
-You may need a / (forward slash) at the end of the seed URL.
-- Anything that comes after a # (hashtag) in a seed URL will be ignored by the crawler.
+You may need ``/`` at the end of the seed URL.
+- Anything that comes after ``#`` in a seed URL will be ignored by the crawler.
 - Archive-It has more information about these considerations and adding seeds here.
 
 Scope
@@ -143,7 +147,7 @@ A few guidelines will help streamline Facebook archiving:
 - Use HTTPS instead of HTTP in your seed URL–Facebook only uses HTTPS.
 - See if you can view the seed on the live web. Many pages on Facebook are only visible to specific users. Archive-It has instructions for how to crawl password-protected pages.
 - Limit the scope of each seed to archive at least 1GB of data. Many Facebook pages will take more than 1GB to capture properly.
-- Either change the collection-level scoping rules to ignore robots exclusions on three hosts (www.facebook.com, fbcdn.net, and akamaihd.net) OR ignore robots.txt for each seed at the seed level.
+- Either change the collection-level scoping rules to ignore robots exclusions on three hosts (`www.facebook.com`, `fbcdn.net`, and `akamaihd.net`) OR ignore robots.txt for each seed at the seed level.
 - You can also limit the scope of your crawls so that they only archive English language content (or other languages), or that they exclude personal information or segmented video files. Archive-It has more detailed guidelines.
 - Archived Facebook pages will appear the same as they do on the live web, but you will be unable to expand comments sections to see comments beyond what the crawlers saw, and you will not be able to see the names of individual Facebook users who have "liked" archived posts (although you will be able to see the number of people who "liked" it).
 
@@ -153,5 +157,3 @@ There are three main rules to follow when archiving Twitter:
 - Avoid adding www to your seed URL, as Twitter URLs do not have a www and www.twitter.com is blocked by a robots exclusion.
 - You must add an ending slash to your seed URL. If you do not do this, you will archive all of Twitter instead of just the feed you want.
 - You should also be sure to exclude additional languages. Each tweet is captured in all languages Twitter supports. To avoid capturing more than what you need, you should limit the scope of your collection or seed to block URLs that match the regular expression ``^.*lang=(?!en).*$``
-
-Archive-It has more detailed guidelines and ways to archive video, Twitter searches, and links in tweets.
