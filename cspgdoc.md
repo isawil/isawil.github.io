@@ -113,46 +113,56 @@ When inputting seed URLs, you must pay attention to how the URLs are formatted. 
 - You may need ``/`` at the end of the seed URL.
 - Anything that comes after ``#`` in a seed URL will be ignored by the crawler.
 
-Scope
+## Scope
 
-The scope setting determines what the crawler archives. You can change or refine the scope by blocking URLs or using regular expressions. Seeds' default crawling scope will be determined by how you format their URLs when you add them to the collection. For most seeds, embedded content such as videos will be archived (including embedded content not hosted on the same site as the seed), but linked content will not (unless you specify otherwise).
+The scope setting determines what the crawler archives. You can change or refine the scope by blocking URLs or using regular expressions. Seeds' default crawling scopes will be determined by how you format their URLs when you add them to the collection.
+
+For most seeds, embedded content such as videos will be archived (including embedded content not hosted on the same site as the seed, such as a YouTube video), but linked content will not (unless you specify otherwise).
 
 You can also change the scope at the seed level.
 
-Here is information about how the crawler determines scope, and here are instructions for modifying a collection's scope.
-
 ## Running crawls
-To run a crawl and record content, select the crawl from the "Seeds" tab and click the "Run Crawl" button above the seed list. From this page, you can set parameters for your crawl and whether it is a crawl or a test crawl. You can limit documents, data, and time archived. You also have the ability to crawl only PDFs.
+To run a crawl and record content, select the crawl from the "Seeds" tab and click the "Run Crawl" button above the seed list.
+
+From the "Run Crawl" page, you can set parameters for your crawl and determine whether it is a crawl or a test crawl. You can limit documents, data, and time archived. You also have the ability to crawl only PDFs.
 
 ## Test crawls
-Web archiving can be expensive, and it is important to stay within your budget. Because it is possible to archive more data than intended while running crawls, be sure to first run a free test crawl. Test crawls are a great way to see which parts of your intended crawl and scope need improvement without paying for collected data. If your test crawl is satisfactory, you can purchase (save) your test crawl and add it to your collection as a normal crawl.
+Web archiving can be expensive, and it is important to stay within your budget. Because it is possible to archive more data than intended while running crawls, be sure to first run a free test crawl.
 
-Run the test crawl with the domains first, and then check for issues such as:
-- redirects, malicious or not. You may elect to disable a seed if the URL has changed or there are other reasons for excessive redirects. Check that most documents for each seed come from the same domain as the seed; if not, this is an unwanted redirect and you should consider disabling the seed.
-- unusually high amount of documents. UT Austin's guidelines say that any amount over 30,000 documents is worrisome. High amounts of documents could be due to a site re-launching, a seed directing to a malicious site, or crawler traps.
+Test crawls are a great way to see which parts of your intended crawl and scope need improvement without paying for collected data. If your test crawl is satisfactory, you can purchase (save) your test crawl and add it to your collection as a normal crawl.
 
-If the test crawl has no issues, you can save it. If the test crawl has issues, add host constraints and then run another test crawl. Repeat until you are satisfied with the results of the crawl.
+Run a test crawl first, and then check for issues such as:
+- Redirects, malicious or not. You may choose to disable a seed if the URL has changed or there are other reasons for excessive redirects. Check that most documents for each seed come from the same domain as the seed; if not, this is an unwanted redirect and you should consider disabling the seed.
+- Unusually high amount of documents. UT Austin's guidelines say that any amount over 30,000 documents is worrisome. High amounts of documents could be due to a site re-launching, a seed directing to a malicious site, or crawler traps.
+
+If the test crawl has no issues, you can save it. If the test crawl has issues, add host constraints and run another test crawl. Repeat until you are satisfied with the results of the crawl.
+
 ## Crawler traps
 
-A crawler trap is a series of web pages that create an infinite amount of URLs for crawlers to find. In other words, if our crawler stumbles into one of these traps, it could continue running forever. While Archive-It's crawlers have maximum crawl duration times, a lot of data can be archived prior to this cut-off, so avoiding these traps is imperative.
+A crawler trap is a series of web pages that create an infinite amount of URLs for crawlers to find. In other words, if your crawler stumbles into one of these traps, it could continue running forever.
 
-Unusually high amounts of "queued" URLs can indicate that a seed has a crawler trap. Archive-It has a list of suspicious patterns on its page "Identify and avoid crawler traps."
+While Archive-It's crawlers have maximum crawl duration times, a lot of data can be archived prior to this cut-off, so avoiding these traps is imperative.
 
-To prevent traps from being crawled, it is necessary to limit the scope of your crawls. This is possible by identifying a string of text that appears in trap URLs and blocking it from future crawls. You may also use regular expressions to limit scope. Refer to the "Scope" section of this page for more information about how to limit scope.
+Unusually high amounts of "queued" URLs can indicate that a seed has a crawler trap.
+
+To prevent traps from being crawled, it is necessary to limit the scope of your crawls. You can do this by identifying a string of text that appears in trap URLs and blocking it from future crawls.
+
+You can also use regular expressions to limit scope. Refer to the "Scope" section of this page for more information about how to limit scope.
 
 ## Archiving Facebook
+
 A few guidelines will help streamline Facebook archiving:
 - Be sure to only archive specific portions of Facebook, and not the entirety of the site. Be sure to add an ending slash to your seed URL.
-- Use HTTPS instead of HTTP in your seed URL–Facebook only uses HTTPS.
-- See if you can view the seed on the live web. Many pages on Facebook are only visible to specific users. Archive-It has instructions for how to crawl password-protected pages.
-- Limit the scope of each seed to archive at least 1GB of data. Many Facebook pages will take more than 1GB to capture properly.
-- Either change the collection-level scoping rules to ignore robots exclusions on three hosts (`www.facebook.com`, `fbcdn.net`, and `akamaihd.net`) OR ignore robots.txt for each seed at the seed level.
-- You can also limit the scope of your crawls so that they only archive English language content (or other languages), or that they exclude personal information or segmented video files. Archive-It has more detailed guidelines.
+- Use HTTPS instead of HTTP in your seed URL.
+- See if you can view the seed on the live web. Many pages on Facebook are only visible to users with permissions to view them.
+- Limit the scope of each seed to archive at least 1GB of data. Many Facebook pages will take more than 1GB to fully capture.
+- Either change the collection-level scoping rules to ignore robots exclusions on three hosts (`www.facebook.com`, `fbcdn.net`, and `akamaihd.net`) OR ignore `robots.txt` for each seed at the seed level.
+- You can also limit the scope of your crawls so that they only archive English language content (or other languages), or that they exclude personal information or segmented video files.
 - Archived Facebook pages will appear the same as they do on the live web, but you will be unable to expand comments sections to see comments beyond what the crawlers saw, and you will not be able to see the names of individual Facebook users who have "liked" archived posts (although you will be able to see the number of people who "liked" it).
 
 ## Archiving Twitter
 
 There are three main rules to follow when archiving Twitter:
-- Avoid adding www to your seed URL, as Twitter URLs do not have a www and www.twitter.com is blocked by a robots exclusion.
+- Avoid adding `www` to your seed URL, as Twitter URLs do not have a `www` and `www.twitter.com` is blocked by a robots exclusion.
 - You must add an ending slash to your seed URL. If you do not do this, you will archive all of Twitter instead of just the feed you want.
 - You should also be sure to exclude additional languages. Each tweet is captured in all languages Twitter supports. To avoid capturing more than what you need, you should limit the scope of your collection or seed to block URLs that match the regular expression ``^.*lang=(?!en).*$``
