@@ -152,6 +152,6 @@ A few guidelines will help streamline Facebook archiving:
 There are three main rules to follow when archiving Twitter:
 - Avoid adding www to your seed URL, as Twitter URLs do not have a www and www.twitter.com is blocked by a robots exclusion.
 - You must add an ending slash to your seed URL. If you do not do this, you will archive all of Twitter instead of just the feed you want.
-- You should also be sure to exclude additional languages. Each tweet is captured in all languages Twitter supports. To avoid capturing more than what you need, you should limit the scope of your collection or seed to block URLs that match the regular expression ^.*lang=(?!en).*$
+- You should also be sure to exclude additional languages. Each tweet is captured in all languages Twitter supports. To avoid capturing more than what you need, you should limit the scope of your collection or seed to block URLs that match the regular expression ``^.*lang=(?!en).*$``
 
 Archive-It has more detailed guidelines and ways to archive video, Twitter searches, and links in tweets.
