@@ -110,9 +110,8 @@ You will be redirected to the landing page for your new collection. From this pa
 
 You can add seeds to a new collection from the collection's landing page. For an existing collection, you can add seeds by navigating to the "Seeds" tab and clicking the blue "Add Seeds" button above the seed list on the right side.
 When inputting seed URLs, you must pay attention to how the URLs are formatted. Usually, you can copy and paste the URL as it appears in your browser, and it will be properly formatted. However, there are two primary considerations:
-You may need ``/`` at the end of the seed URL.
+- You may need ``/`` at the end of the seed URL.
 - Anything that comes after ``#`` in a seed URL will be ignored by the crawler.
-- Archive-It has more information about these considerations and adding seeds here.
 
 Scope
 
