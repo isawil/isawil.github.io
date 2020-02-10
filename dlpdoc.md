@@ -4,7 +4,6 @@ title: Archive-It for Web Archiving
 author: Isaac Williams, for UCLA Digital Library Program
 ---
 
-
 # Background
 
 This is technical documentation I wrote in support of UCLA’s web archiving initiatives. Few librarians at UCLA have experience using Archive-It, the software we use to archive web content, and I wrote this documentation to help librarians better understand how it functions. This documentation is currently hosted on Confluence, the website the UCLA Library uses to host its documentation.
