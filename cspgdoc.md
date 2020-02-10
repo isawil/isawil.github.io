@@ -4,14 +4,11 @@ title: Transferring data from Mimsy XG to Google Maps
 author: Isaac Williams, for the Center for the Study of Political Graphics
 ---
 
+## Background
 
-# CSPG Digital Mapping Documentation
+When I worked at the Center for the Study of Political Graphics, I created a digital map that showed the location of origin for over 4,000 digitized collections items. Because creating the map was complicated at times, I created documentation showing permanent staff how to update the project when my internship was complete.
 
-## Summary
-
-The Center for the Study of Political Graphics has a digital map of its digitized collections items. The map shows the location of origin for over 4,000 posters, and redirects users to catalog records for any posters they are interested in. The map is hosted on Google Maps, and uses collections data from Mimsy XG to generate locations.
-
-This documentation describes how to update the map with new collections items and locations.
+---
 
 ## Exporting data from Mimsy XG
 
