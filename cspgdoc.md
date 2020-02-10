@@ -86,3 +86,21 @@ To put the map on the CSPG website, you do not need to have any experience with 
 - Save the file, and send your changes to the site.
 
 Give it a few minutes, and the map will be visible on the CSPG site.
+
+<!-- Default Statcounter code for Isawil.github.io
+https://isawil.github.io -->
+<script type="text/javascript">
+var sc_project=11863955;
+var sc_invisible=1;
+var sc_security="f1c0a47a";
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - StatCounter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/11863955/0/f1c0a47a/1/"
+alt="Web Analytics Made Easy -
+StatCounter"></a></div></noscript>
+<!-- End of Statcounter Code -->
