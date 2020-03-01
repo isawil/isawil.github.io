@@ -3,7 +3,7 @@ layout: page
 title: Maps
 ---
 
-## [Dallas Death Map Project](https://isawil.carto.com/builder/c4402a6d-038f-412b-a3dc-1aa6f164a651/embed)
+## [Dallas Death Map Project](https://libraries.uta.edu/deathmap)
 
 ![Screenshot of the Dallas Death Map](https://github.com/isawil/isawil.github.io/blob/master/assets/ddm-2019-02.png?raw=true)
 
