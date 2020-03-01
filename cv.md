@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Curriculum Vitae
 ---
 
 This is an abridged CV. For a more comprehensive look at my professional experience, head to [my LinkedIn profile](https://www.linkedin.com/in/isaac-williams-40130914a/).
@@ -31,25 +31,15 @@ This is an abridged CV. For a more comprehensive look at my professional experie
 <br>Center for the Study of Political Graphics
 <br>October 2018-March 2019
 
-**Marketing and Research Analysis Intern**
-<br>Greenlight Insights
-<br>August 2015-January 2016
-
 ---
 
-## Conferences
+## Publications & Presentations
 
-**Research Data Access and Preservation Summit**
-<br>"What Is 'Data'?: Collaborations Between Special Collections and Research Data Services"
-<br>With Peace Ossom-Williamson and Priscilla Escobedo
-<br>Santa Fe, NM
-<br>March 2020
+Williams, I. (2020, May). *Planning a Library Hackathon: Challenges, Successes, and Insights*. Poster session presented at the 2020 Texas Conference on Digital Libraries, Austin, TX.
 
-**Research & Inquiry Conference**
-<br>"'How Do You Know?': Self-Interrogation and the Roots of Queerness"
-<br>With Ariel Hahn
-<br>Los Angeles, CA
-<br>May 2018
+Williams, I., Escobedo, P., & Ossom-Williamson, P. (2020, March). *What is “Data”?: Collaborations Between Special Collections and Research Data Services*. Poster session presented at the 2020 Research Data Access and Preservation Summit, Santa Fe, NM.
+
+Hahn, A. & Williams, I. (2018, May). *“How Do You Know?”: Self-Interrogation and the Root(s) of Queerness*. Participatory session presented at the Research & Inquiry Conference, Los Angeles, CA.
 
 ---
 
@@ -64,13 +54,21 @@ This is an abridged CV. For a more comprehensive look at my professional experie
 
 ## Service
 
-**UCLA Library and Information Science Alumni Association**
-<br>Mentor
-<br>December 2019 to Present
-
 **dh+lib**
 <br>Editor-at-Large
 <br>October 2019 to Present
+
+**The Carpentries**
+<br>instructor
+<br>January 2020 to Present
+
+**UTA Libraries Staff Advisory Council**
+<br>Council Member
+<br>January 2020 to Present
+
+**UCLA Library and Information Science Alumni Association**
+<br>Mentor
+<br>December 2019 to Present
 
 **Digital Humanities 2020**
 <br>Peer Reviewer
@@ -94,6 +92,12 @@ This is an abridged CV. For a more comprehensive look at my professional experie
 - Python
 - R
 - JSON
+
+---
+
+## Interests
+
+Digital humanities; humanities data; data visualization; ethics in technology; cities; poetry; spatial humanities; GIS; gender studies; critical theory.
 
 <!-- Default Statcounter code for Isawil.github.io
 https://isawil.github.io -->
