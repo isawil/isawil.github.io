@@ -79,22 +79,6 @@ Hahn, A. & Williams, I. (2018, May). *“How Do You Know?”: Self-Interrogation
 
 ---
 
-## Skills
-
-- Markdown
-- Jekyll
-- GitHub
-- Bash
-- Unix shell
-- HTML/CSS
-- XML
-- Oxygen XML Editor
-- Python
-- R
-- JSON
-
----
-
 ## Interests
 
 Digital humanities; humanities data; data visualization; ethics in technology; cities; poetry; spatial humanities; GIS; gender studies; critical theory.
