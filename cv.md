@@ -59,7 +59,7 @@ Hahn, A. & Williams, I. (2018, May). *“How Do You Know?”: Self-Interrogation
 <br>October 2019 to Present
 
 **The Carpentries**
-<br>instructor
+<br>Instructor
 <br>January 2020 to Present
 
 **UTA Libraries Staff Advisory Council**
