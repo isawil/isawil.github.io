@@ -1,5 +1,5 @@
 ---
-layout: narrative
+layout: page
 title: Texas UFO sightings
 ---
 
