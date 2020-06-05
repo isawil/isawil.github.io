@@ -35,7 +35,7 @@ This is an abridged CV. For a more comprehensive look at my professional experie
 
 ## Publications & Presentations
 
-Williams, I. (2020, May). *Planning a Library Hackathon: Challenges, Successes, and Insights*. Poster session presented at the 2020 Texas Conference on Digital Libraries, Austin, TX.
+Williams, I. (2020, May). *Planning a Library Hackathon: Challenges, Successes, and Insights*. Poster session to be presented at the 2020 Texas Conference on Digital Libraries, Austin, TX. Conference cancelled due to COVID-19.
 
 Williams, I., Escobedo, P., & Ossom-Williamson, P. (2020, March). *What is “Data”?: Collaborations Between Special Collections and Research Data Services*. Poster session presented at the 2020 Research Data Access and Preservation Summit, Santa Fe, NM.
 
@@ -74,14 +74,11 @@ Hahn, A. & Williams, I. (2018, May). *“How Do You Know?”: Self-Interrogation
 <br>Peer Reviewer
 <br>November 2019-December 2019
 
-**UTA LGBTQ Advisory Board**
-<br>Board Member
-
 ---
 
 ## Interests
 
-Digital humanities; humanities data; data visualization; ethics in technology; cities; poetry; spatial humanities; GIS; gender studies; critical theory.
+Digital humanities; humanities data; data visualization; data ethics and justice; urban planning and city life; GIS and maps; spatial humanities; computational instruction.
 
 <!-- Default Statcounter code for Isawil.github.io
 https://isawil.github.io -->
